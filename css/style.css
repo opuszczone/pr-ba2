@@ -105,10 +105,10 @@ body {
 .source {
   font-size: 9pt;
   font-style: italic;
-  color: gray;
+  color: blue;
 }
 a.source:visited {
-  color: grey;
+  color: blue;
 }
 
 .description {
